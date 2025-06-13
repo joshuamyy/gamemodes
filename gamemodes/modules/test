@@ -1,5 +1,0 @@
-t) > 32)
-			return ShowRegisterMenu(playerid);
-
-        bcrypt_hash(playerid, "HashPlayerPassword", inputtext, BCRYPT_COST);
-	}
